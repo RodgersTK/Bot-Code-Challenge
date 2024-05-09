@@ -22,7 +22,7 @@ can custom build your own Bot Army! This is our app:
     4. Then run node server.js to run our server. 
 
 ## Live link
-Deployed Frontend can be accessed here [Front End](https://663d1b85143d033a1d976b59--famous-salmiakki-1ab2f4.netlify.app/)  
+Deployed Frontend can be accessed here [Front End](https://663d240b13e932409b7cd4bb--precious-clafoutis-c07d0e.netlify.app/)  
 Deployed Backend can be accessed here [backend End](https://bot-code-challenge-0anr.onrender.com/)
 
 ## Technologies used

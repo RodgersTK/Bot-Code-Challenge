@@ -21,7 +21,7 @@ function BotsPage() {
     setSelectedBots(
       selectedBots.filter((selectedBot) => selectedBot.id !== id)
     );
-    fetch(`http://localhost:8002/bots/${id}`, {
+    fetch(`https://bot-code-challenge-0anr.onrender.com/bots/${id}`, {
       method: "DELETE",
     })
       .then((res) => res.json())
